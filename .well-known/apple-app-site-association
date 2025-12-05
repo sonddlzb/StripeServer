@@ -1,0 +1,23 @@
+{
+   "applinks":{
+      "details":[
+         {
+            "appID":"P634K2UB3K.com.yopaz.aeonmobile.portal.dev",
+            "paths":[
+               "*" 
+            ]
+         }
+      ]
+   },
+   "appclips":{
+      "details":[
+         {
+            "appID":"P634K2UB3K.com.yopaz.aeonmobile.portal.dev.Clip",
+            "paths":[
+               "/ekyc",
+               "/ekyc/*"
+            ]
+         }
+      ]
+   }
+}
